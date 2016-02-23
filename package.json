@@ -1,0 +1,25 @@
+{
+  "name": "udp-game-server",
+  "version": "1.0.0",
+  "description": "Node UDP Game Server",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunoventura/udp-game-server.git"
+  },
+  "keywords": [
+    "Node",
+    "UDP",
+    "Game",
+    "Server"
+  ],
+  "author": "@brunoventura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunoventura/udp-game-server/issues"
+  },
+  "homepage": "https://github.com/brunoventura/udp-game-server#readme"
+}
